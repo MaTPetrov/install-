@@ -3,6 +3,9 @@
 sudo pacman -S discord
 sudo pacman -S telegram-desktop
 sudo pacman -S steam
+sudo pacman -S xournalpp
+#sudo pacman -S pycharm-community-edition
+
 
 
 sudo pacman -S flatpak
