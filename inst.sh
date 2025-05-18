@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo pacman -Suy
 sudo pacman -S discord
 sudo pacman -S telegram-desktop
 sudo pacman -S steam
