@@ -1,6 +1,9 @@
 #!/bin/bash
 
 sudo pacman -Suy
+
+sudo pacman -Sy gnome-browser-connector
+
 sudo pacman -S discord
 sudo pacman -S telegram-desktop
 sudo pacman -S steam
